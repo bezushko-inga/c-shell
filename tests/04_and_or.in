@@ -1,0 +1,5 @@
+false && echo bad
+true && echo good
+true || echo bad
+false || echo good2
+exit

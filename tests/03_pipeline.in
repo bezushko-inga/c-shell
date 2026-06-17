@@ -1,0 +1,3 @@
+echo hello | cat
+printf "a\nb\nc\n" | grep b
+exit

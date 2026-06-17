@@ -1,0 +1,6 @@
+echo hello > tests/tmp_out.txt
+cat < tests/tmp_out.txt
+echo world >> tests/tmp_out.txt
+cat tests/tmp_out.txt
+rm tests/tmp_out.txt
+exit
