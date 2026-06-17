@@ -29,7 +29,7 @@ gcc shell.c -o shell
 ./shell
 ```
 
-## Testing. Run all tests:
+## Testing
 
 ```bash
 chmod +x tests/run_tests.sh
