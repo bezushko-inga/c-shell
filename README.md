@@ -28,6 +28,14 @@ gcc shell.c -o shell
 ```bash
 ./shell
 ```
+
+## Testing. Run all tests:
+
+```bash
+chmod +x tests/run_tests.sh
+./tests/run_tests.sh
+```
+
 <p align="center">
   <img src="assets/c-shell-banner-3.jpg" alt="C Shell banner" width="100%">
 </p>
